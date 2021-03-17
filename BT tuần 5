@@ -1,4 +1,0 @@
-int* getPointerToTen(){
-    int* p = int mới(10);
-    trả về p;
-}
